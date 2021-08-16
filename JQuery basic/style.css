@@ -1,0 +1,55 @@
+
+.style1{
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+    border: 2px solid red;
+}
+.button{
+    padding: 1rem 1.2rem;
+    background-color: black;
+    color: red;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+}
+
+.span-style{
+    font-size: 1.4rem;
+    padding: 1rem 1.4rem;
+    color: red;
+}
+
+
+ #btn{
+    padding: .8rem 1rem;
+    font-size: 1rem;
+    margin-bottom: 1.4rem;
+    
+}
+
+.paragraph{
+    /* display: none;   for show animation */
+    background: rgb(206, 84, 40);
+    color: white;
+    padding: 1rem 1.2rem;
+    width: 60%;
+    font-size: 1.2rem;  
+    margin-bottom: 6rem;
+}
+
+
+#fade{
+    padding: .8rem 1rem;
+    font-size: 1rem;
+    margin-bottom: 1.4rem;
+}
+
+.para2{
+        /* display: none;  for fade in   */
+        background: rgb(206, 84, 40);
+        color: white;
+        padding: 1rem 1.2rem;
+        width: 60%;
+        font-size: 1.2rem;  
+        margin-bottom: 6rem;
+}
